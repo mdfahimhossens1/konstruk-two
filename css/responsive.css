@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+@media screen and (min-width: 991px) and (max-width: 1200px) {
+    
+.row.rs-vertical-middle {
+    width: 100% !important;
+    margin-left: -30px !important;
+  }
+  .toolbar-share {
+    width: 425px !important;
+  }
+  .row-table {
+    width: 100% !important;
+    margin-left: -18px !important;
+  }
+  .quote-btn {
+    width: 135px !important;
+    display: block !important;
+    padding: 13px 30px !important;
+  }
+  .toolbar-share ul li em {
+    padding-right: 0px !important;
+}
+.content-wrap h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .banner-img {
+    overflow: hidden !important;
+  }
+  .about-image {
+    width: 420px !important;
+  }
+  .sec-title-one h2 {
+    font-size: 55px;
+    line-height: 63px;
+  }
+  .about-icon img {
+    width: 35px;
+  }
+  .service-inner {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    margin: 30px auto;
+  }
+  .service-item {
+    width: 450px !important;
+  }
+  .skill-info h2 {
+    font-size: 50px;
+    line-height: 58px;
+  }
+  .skill-info p {
+    width: 410px;
+  }
+  .cl-skill-bar {
+    width: 410px;
+  }
+  .skill-img {
+    width: 455px !important;
+  }
+  .project-item .project-content {
+    top: -19% !important;
+  }
+  
+.contact-title p {
+    width: 375px !important;
+  }
+  .contact-form {
+    width: 420px !important;
+  }
+  .textwidget p {
+    width: 200px !important;
+  }
+  .footer-address ul {
+    width: 195px !important;
+  }
+}
